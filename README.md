@@ -1,2 +1,2 @@
 # To-Do-list
-This is my to-do list simple web app
+This is my simple to-do list web app
